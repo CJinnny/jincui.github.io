@@ -1,2 +1,2 @@
 ## My website
-Click [here](https://cjinnny.github.io/website/) to see
+Click [here](https://cjinnny.github.io/portfolio/) to see
