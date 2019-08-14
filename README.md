@@ -1,2 +1,2 @@
 ## My portfolio
-Click [here](https://cjinnny.github.io/portfolio/) to see
+Click [here](https://cjinny.github.io/portfolio/) to see
