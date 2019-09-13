@@ -1,2 +1,2 @@
-## My portfolio
-Click [here](https://cjinny.github.io/portfolio/) to see
+# jincui.github.io
+# jincui.github.io
